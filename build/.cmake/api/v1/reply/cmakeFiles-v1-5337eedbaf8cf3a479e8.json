@@ -777,8 +777,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/dell/\u684c\u9762/code/build",
-		"source" : "/home/dell/\u684c\u9762/code"
+		"build" : "/home/dell/\u684c\u9762/code/chatserver/build",
+		"source" : "/home/dell/\u684c\u9762/code/chatserver"
 	},
 	"version" : 
 	{
